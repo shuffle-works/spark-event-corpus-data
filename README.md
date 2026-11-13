@@ -6,3 +6,7 @@ Every commit is tagged per generation run (`vYYYY-MM-DD`). Consumed by
 sparkforensics as a pinned git submodule tag, and by spark-event-corpus's own
 `index.json` catalog, which is the source of truth for which tag a given
 log lives at.
+
+## License
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International). See `LICENSE`.
